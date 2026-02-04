@@ -1,8 +1,6 @@
 ### 👋 Hey, I'm Peter
 
-I'm a software engineer who likes learning more about **distributed systems**, **data & infrastructure**, and how **AI systems actually run in production**.
-
-Lately I've also been learning full-stack development and experimenting with end-to-end product ideas.
+I'm a software engineer who likes learning more about distributed systems, data & infrastructure, and how AI systems actually run in production. Lately I've also been learning full-stack development and experimenting with end-to-end product ideas.
 
 ---
 
