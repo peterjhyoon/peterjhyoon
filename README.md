@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hey, I'm Peter
 
-<!--
-**peterjhyoon/peterjhyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who likes learning more about **distributed systems**, **data & infrastructure**, and how **AI systems actually run in production**.
 
-Here are some ideas to get you started:
+Lately I've also been learning full-stack development and experimenting with end-to-end product ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Things I'm interested in
+- Data Engineering, distributed systems & scalability
+- Cloud infrastructure & reliability
+- AI infrastructure, LLM tooling, and ML Infra
+
+---
+
+### 🛠️ What I use (and keep learning)
+- **Backend / Data**: Python, Spark, Airflow, Kafka, FastAPI
+- **Infra**: AWS, Docker, Kubernetes, Terraform
+- **Frontend**: React, Tailwind CSS
+- **Other**: SQL, Git, CI/CD
+
+---
+
+### 🌱 Currently learning
+- Full-stack development
+- Distributed system design patterns + data platform architecture
+- Infrastructure (k8s wonderland)
