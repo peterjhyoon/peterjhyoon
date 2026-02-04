@@ -8,16 +8,16 @@ Lately I've also been learning full-stack development and experimenting with end
 
 ### 🧩 Things I'm interested in
 - Data Engineering, distributed systems & scalability
-- Cloud infrastructure & reliability
-- AI infrastructure, LLM tooling, and ML Infra
+- Cloud, AI/ML infrastructure and reliability
+- Agentic AI systems
+
 
 ---
 
 ### 🛠️ What I use (and keep learning)
-- **Backend / Data**: Python, Spark, Airflow, Kafka, FastAPI
+- **Backend / Data**: Python, Spark, Airflow, Kafka, FastAPI, Java, Spring Boot
 - **Infra**: AWS, Docker, Kubernetes, Terraform
 - **Frontend**: React, Tailwind CSS
-- **Other**: SQL, Git, CI/CD
 
 ---
 
